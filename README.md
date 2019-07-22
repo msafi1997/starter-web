@@ -6,3 +6,5 @@
 	
 	Purpose
 ## Deployment
+	Deployment
+## How To Contribute

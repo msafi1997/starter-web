@@ -8,3 +8,7 @@
 ## Deployment
 	Deployment
 ## How To Contribute
+
+### Copyright
+
+Git TRAINGING 2019

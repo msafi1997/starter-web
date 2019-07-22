@@ -11,4 +11,4 @@
 
 ### Copyright
 
-GIT TRAINGING 2019
+Git TRAINGING 2019
